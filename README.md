@@ -50,9 +50,9 @@ We tested 3 models built with PyTorch:
 
 | Model   | CNN Layers | Bi-LSTM Layers | Target           | Accuracy |
 | ------- | ---------- | -------------- | ---------------- | -------- |
-| Model A | 4          | 1              | Gender + Emotion | 89.81%   |
-| Model B | 5          | 1              | Gender + Emotion | 77.21%   |
-| Model C | 4          | 1              | Emotion only     | 66.46%   |
+| Model A | 4          | 1              | Gender + Emotion | 85.5%    |
+| Model B | 5          | 1              | Gender + Emotion | 71.7%    |
+| Model C | 4          | 1              | Emotion only     | 68.7%    |
 
 ## 🧪 Training Setup
 
